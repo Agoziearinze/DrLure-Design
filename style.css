@@ -52,13 +52,8 @@
     margin-right: auto;
 }
 
-.table, .table th, .table td {
-    background-color: #121212 !important;
-    color: #a18915 !important;
-    border-color: #a18915 !important; /* Optional: gold borders */
-}
-
 .table tr:last-child td,
 .table tr:last-child th {
     border-bottom: none !important;
+
 }
