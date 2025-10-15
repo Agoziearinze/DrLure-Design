@@ -1,0 +1,98 @@
+.dark-mode {
+    background-color: #121212;
+    color: #fff;
+}
+
+#DrLure-Logo{
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.fs-4{
+    color: #a18915;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    font-family: "Licorice", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#DrLure-bold{
+    padding: 0%;
+    margin: 0%;
+}
+
+#nav-right .link-body-emphasis{
+    color: #a18915 !important;
+}
+
+#nav-right .link-body-emphasis:hover{
+    color: #75640f !important;
+    text-decoration: underline !important;
+}
+
+.link-body-emphasis{
+    color: #a18915;
+}
+
+.pricing-header{
+    color: #a18915;
+}
+
+.border-bottom{
+    border-bottom: 2px solid #a18915 !important;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#rule{
+    border-top: 2px solid #a18915 !important;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+
+.table-responsive{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table, .table th, .table td {
+    background-color: #121212 !important;
+    color: #a18915 !important;
+    border-color: #a18915 !important; /* Optional: gold borders */
+}
+
+@media (max-width: 900px) {
+#rule{
+    border-top: 2px solid #a18915 !important;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+}
+
+@media (max-width: 678px) {
+#rule{
+    border-top: 2px solid #a18915 !important;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+}
+
+@media (max-width: 450px) {
+#rule{
+    border-top: 2px solid #a18915 !important;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+}
